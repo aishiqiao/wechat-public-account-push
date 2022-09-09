@@ -22,7 +22,7 @@ export const config = {
    *    // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
    *    id: "oKX576K4mJxNXRXF9CPGbL7dqUAM",
    *    // 你想对他发送的模板消息的模板ID
-   *    useTemplateId: "viv3byWXd_z3aflBECZgP4HFvMdpNjWP1jjw3nlZm6k",
+   *    useTemplateId: "dqPDxpkgveN8MRC6y8RnfDcCaztCdi89PGF-De_jeSg",
    *    // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
    *    openUrl: "https://www.cnblogs.com/pijunqi/"
    *   }, 
@@ -35,7 +35,7 @@ export const config = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "of8tj6F45sadGxjVUyuqWJRU2tjc",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "CSVwZBDfTrB93EHDXS44fKwQcd4PW3qGHs970xOdWxU",
+      useTemplateId: "dqPDxpkgveN8MRC6y8RnfDcCaztCdi89PGF-De_jeSg",
       // 所在省份
       province: "河南",
       // 所在城市
@@ -46,7 +46,7 @@ export const config = {
     {
       name: "老公", 
       id: "of8tj6F45sadGxjVUyuqWJRU2tjc",
-      useTemplateId: "CSVwZBDfTrB93EHDXS44fKwQcd4PW3qGHs970xOdWxU",
+      useTemplateId: "dqPDxpkgveN8MRC6y8RnfDcCaztCdi89PGF-De_jeSg",
       province: "河南",
       city: "商丘",
       openUrl: "https://www.cnblogs.com/pijunqi/"
@@ -66,7 +66,7 @@ export const config = {
       // 一般都填自己
       name: "自己",
       // 自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "oKX576K4mJxNXRXF9CPGbL7dqUAM",
+      id: "of8tj6F45sadGxjVUyuqWJRU2tjc",
     }, 
   ],
     
