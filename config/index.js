@@ -6,12 +6,12 @@ export const config = {
   // 公众号APP_ID 
   // 建议不要填这里，请使用文档中github secret的方法进行保密配置，保护您的隐私安全。
   // 如果你非要填这里也行。脚本也能运行
-   APP_ID: "wx128d8fdd8e63b47e",
+   APP_ID: "wxcc6cd328336ec00a",
 
   // 公众号APP_SECRET 
   // 建议不要填这里，请使用文档中github secret的方法进行保密配置，保护您的隐私安全。
   // 如果你非要填这里也行。脚本也能运行
-   APP_SECRET: "2339e15872af457a4df19619123e2056",
+   APP_SECRET: "ccf40952a24292e7bfc94e616664180c",
 
   /**
    * 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如
@@ -33,9 +33,9 @@ export const config = {
       // 想要发送的人的名字
       name: "老婆",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "oKX576KaX0m6FY8KvB_jdnY62-yM",
+      id: "of8tj6F45sadGxjVUyuqWJRU2tjc",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "viv3byWXd_z3aflBECZgP4HFvMdpNjWP1jjw3nlZm6k",
+      useTemplateId: "EtHlNW60IeEqykREFwzd7_au9SbCJzXKJ53d2U6668I",
       // 所在省份
       province: "河南",
       // 所在城市
@@ -45,8 +45,8 @@ export const config = {
     }, 
     {
       name: "老公", 
-      id: "oKX576K4mJxNXRXF9CPGbL7dqUAM",
-      useTemplateId: "viv3byWXd_z3aflBECZgP4HFvMdpNjWP1jjw3nlZm6k",
+      id: "of8tj6F45sadGxjVUyuqWJRU2tjc",
+      useTemplateId: "EtHlNW60IeEqykREFwzd7_au9SbCJzXKJ53d2U6668I",
       province: "河南",
       city: "商丘",
       openUrl: "https://www.cnblogs.com/pijunqi/"
