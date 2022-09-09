@@ -35,7 +35,7 @@ export const config = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "of8tj6F45sadGxjVUyuqWJRU2tjc",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "EtHlNW60IeEqykREFwzd7_au9SbCJzXKJ53d2U6668I",
+      useTemplateId: "CSVwZBDfTrB93EHDXS44fKwQcd4PW3qGHs970xOdWxU",
       // 所在省份
       province: "河南",
       // 所在城市
@@ -46,7 +46,7 @@ export const config = {
     {
       name: "老公", 
       id: "of8tj6F45sadGxjVUyuqWJRU2tjc",
-      useTemplateId: "EtHlNW60IeEqykREFwzd7_au9SbCJzXKJ53d2U6668I",
+      useTemplateId: "CSVwZBDfTrB93EHDXS44fKwQcd4PW3qGHs970xOdWxU",
       province: "河南",
       city: "商丘",
       openUrl: "https://www.cnblogs.com/pijunqi/"
